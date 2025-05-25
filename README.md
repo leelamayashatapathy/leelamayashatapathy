@@ -9,14 +9,15 @@ Welcome to my GitHub profile! I'm a passionate software engineer with 2 years of
 - **Version Control & Project Management**: Git, Bitbucket, Jira
 
 💼 **Work Experience**
+
 **Zentratech (Junior Software Engineer – Backend)**  
-*Feb 2023 – Sep 2024 (Remote, Singapore)*  
+ 
 - Developed and scaled features for live real-time projects.
 - Designed modular, maintainable backend architecture using Django and REST APIs.
 - Contributed to frontend development using React.
 
 **ZestIot (Python Developer Intern)**  
-*May 2022 – Nov 2022 (Hyderabad, India)*  
+ 
 - Enhanced backend functionalities and contributed to debugging and performance improvements.
 - Collaborated with product teams to implement scalable solutions.
 
