@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Leelamaya Shatapathy! 👋
 
-<!--
-**leelamayashatapathy/leelamayashatapathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software engineer with 2 years of hands-on experience in backend development using Python and Django. I love building scalable web applications and solving real-world problems through clean and efficient code. My expertise spans from designing REST APIs to integrating MySQL, Celery, and more for robust application performance.
 
-Here are some ideas to get you started:
+🔧 **Technologies & Tools**
+- **Backend Development**: Python, Django, Django Rest Framework, Celery, MySQL, SQL
+- **Frontend Development**: HTML, CSS, JavaScript
+- **CMS**: WordPress
+- **Version Control & Project Management**: Git, Bitbucket, Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Work Experience**
+**Zentratech (Junior Software Engineer – Backend)**  
+*Feb 2023 – Sep 2024 (Remote, Singapore)*  
+- Developed and scaled features for live real-time projects.
+- Designed modular, maintainable backend architecture using Django and REST APIs.
+- Contributed to frontend development using React.
+
+**ZestIot (Python Developer Intern)**  
+*May 2022 – Nov 2022 (Hyderabad, India)*  
+- Enhanced backend functionalities and contributed to debugging and performance improvements.
+- Collaborated with product teams to implement scalable solutions.
+
+🚀 **Projects & Contributions**
+- **ZentraLearn**: A scalable EdTech platform for connecting learners and educators in live sessions.
+- **AVI Leap**: Aviation industry product for real-time operational intelligence.
+- [Visit my GitHub for more](https://github.com/leelamayashatapathy)
+
+📜 **Certifications**
+- *Programming with Python* – Internshala
+- *Full-Stack Web Development with Django* – Oretes
+
+🌐 **Connect with Me**
+- 📧 Email: [shatapathyl@gmail.com](mailto:shatapathyl@gmail.com)
+- 💼 LinkedIn: [leelamaya-shatapathy](https://www.linkedin.com/in/leelamaya-shatapathy-39b3aa213/)
+- 🧑‍💻 GitHub: [leelamayashatapathy](https://github.com/leelamayashatapathy)
+
+Thanks for visiting my profile! Feel free to connect for collaboration, tech discussions, or opportunities 😊
